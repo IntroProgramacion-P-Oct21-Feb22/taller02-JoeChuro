@@ -17,7 +17,8 @@ public class Proyecto01 {
         // TODO code application logic here
         System.out.println("Ejemplo basico de Java");
         System.out.println("Versionado a travez de git");
-        System.out.println("Manejado desde GitHub");
+        System.out.println("Manejado desde Git");
+        System.out.println("Creado por Joe Churo");
     }
     
 }
